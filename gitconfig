@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hashimj@hotmail.co.uk
+	name = hashim janjua
